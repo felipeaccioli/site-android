@@ -40,10 +40,14 @@ header {
 header > h1 {
   color: white;
   font-family: var(--fonte-destaque);
+  padding: 20px 0px 0px 20px;
+  text-align: center;
 }
 
 header > p {
   color: white;
+  padding: 20px;
+  text-align: center;
 }
 
 nav {
